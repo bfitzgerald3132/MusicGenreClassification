@@ -6,7 +6,7 @@ Packages required: pytube, moviepy, pydub, fastai, fastaudio (install with pip)
 
 Implements my dataset on <a href="https://www.kaggle.com/datasets/benfitzgerald3132/jazz-vs-classical-music-classification/">Kaggle</a> and <a href="https://github.com/bfitzgerald3132/jazz-classical-dataset">GitHub</a>
 
-Attained 95.6% accuracy with batch_size = 64, epoch_count = 6, learning_rate = 4e-2
+Attained 95.19% accuracy with batch_size = 64, epoch_count = 6, learning_rate = 4e-2
 
 <img src="https://github.com/bfitzgerald3132/MusicGenreClassification/blob/main/screenshot.png" />
 
