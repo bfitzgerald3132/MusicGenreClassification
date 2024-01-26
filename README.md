@@ -8,6 +8,8 @@ Implements my dataset on <a href="https://www.kaggle.com/datasets/benfitzgerald3
 
 Attained 95.6% accuracy with batch_size = 64, epoch_count = 6, learning_rate = 4e-2
 
+<img src="https://github.com/bfitzgerald3132/MusicGenreClassification/blob/main/screenshot.png" />
+
 ------------------------------
 
 <h2>Installation and execution:</h2>
