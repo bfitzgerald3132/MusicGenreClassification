@@ -1,6 +1,6 @@
 <h1 style="margin: auto; width: 100%; text-align: center; font-size: 25px;">Music Genre Classification</h1>
 
-<h6>This program identifies whether an audio clip is classical music or jazz. Will implement multi-label capabilities soon.</h6>
+<h3>This program identifies whether an audio clip is classical music or jazz. Will implement multi-label capabilities soon.</h3>
  
 Packages required: pytube, moviepy, pydub, fastai, fastaudio (install with pip)
 
