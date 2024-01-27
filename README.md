@@ -10,8 +10,8 @@ Attained 90.77% accuracy with batch_size = 64, epoch_count = 6, learning_rate = 
 
 <img src="https://github.com/bfitzgerald3132/MusicGenreClassification/blob/main/updated_screenshot.png" />
 
-File breakdown: <ul>
-<li>"Train Classifier.ipynb": Code used to train model</li>
+File breakdown: 
+* "Train Classifier.ipynb": Code used to train model
 <li>"Classify Audio.ipynb": Notebook where users can test a clip's genre</li>
 <li>"multi_category_classifier.pkl": Pkl-ed model parameters</li> </ul>
 ------------------------------
