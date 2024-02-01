@@ -8,7 +8,7 @@ Implements my dataset on <a href="https://www.kaggle.com/datasets/benfitzgerald3
 
 <h2>Accuracy:</h2>
 
-My model attained 90.77% unadjusted accuracy classifying a 5-second WAV file with batch_size = 64, epoch_count = 6, learning_rate = 4e-2.
+My model attained 90.77% unadjusted accuracy classifying a 5-second WAV file, implementing a xresnet18 architecture with batch_size = 64, epoch_count = 6, learning_rate = 4e-2.
 
 Adjusted accuracy is calculated by splitting an audio file into 5-second WAV segments and finding the most commonly predicted label. If a model correctly classifies a classical music clip 90.77% of the time, we can estimate that it classifies a clip as jazz, rock, or hip hop about 3.07% of the time. Further, our model, given a classical clip C split into _n_ 5-second segments, must classify at least n/4 segments as the same incorrect genre to make an incorrect prediction. 
 
